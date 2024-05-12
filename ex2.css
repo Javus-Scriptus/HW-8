@@ -1,0 +1,82 @@
+td:hover {
+    color: black;
+}
+
+.eng {
+    color: red;
+}
+
+.math {
+    color: blue
+}
+
+.ger {
+    color: gray;
+}
+
+.bio {
+    color: yellowgreen;
+}
+
+.geo {
+    color: green;
+}
+
+.esp {
+    color: yellow;
+}
+
+.art {
+    color: brown;
+}
+
+.rel {
+    color: bisque;
+}
+
+.phys {
+    color: blueviolet;
+}
+
+.xtra {
+    color: hotpink;
+}
+
+.music {
+    color: cadetblue;
+}
+
+a:link {
+    color: lightskyblue;
+}
+
+a:visited {
+    color: black;
+}
+
+a:focus {
+    color: indigo;
+    background-color: coral;
+}
+
+a {
+    font-size: 18px;
+}
+
+tr:nth-child(even) {
+    font-size: 24px;
+}
+
+tr:nth-child(odd) {
+    font-size: 15px;
+}
+
+tr {
+    border-left: 2px;
+    border-right: 2px;
+}
+
+button:disabled {
+    font-size: medium;
+    color: yellowgreen;
+}

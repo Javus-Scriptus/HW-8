@@ -1,0 +1,19 @@
+.text-box h3:first-of-type {
+    color: pink;
+}
+
+.text-box p:nth-of-type(2) {
+    color: green;
+}
+
+.text-box .yellow {
+    color: yellow;
+}
+
+.text-box p#greycol {
+    color: grey;
+}
+
+.text-box div p {
+    color: red;
+}
